@@ -1,0 +1,13 @@
+$color1:#262626; /*background colours*/
+$color2:#cccccc; /* Title colours*/
+$color3:green;
+$color4:yellow;
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: $color1;
+}
+
+h1 {
+  color: $color2;
+}
